@@ -6,7 +6,6 @@ export default function Home() {
   return (
     <div className="wrapper">  
       <div className="content">
-        <h1>Guider</h1>
         <h3>About company</h3>
         <p>Основана в 2006 году</p>
       </div>

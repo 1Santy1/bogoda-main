@@ -1,14 +1,14 @@
 export const menuItems = [
     {
-        href:'/',
+        href:'#',
         title:'Home'
     },
     {
-        href:'/about',
+        href:'#about',
         title:'About'
     },
     {
-        href:'/contacts',
+        href:'#contacts',
         title:'Contacts'
     }
 ];
