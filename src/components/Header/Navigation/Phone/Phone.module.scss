@@ -1,0 +1,15 @@
+.phone{
+    display: flex;
+    flex-direction: column;
+    gap: 3px;
+    align-items: center;
+}
+
+.phone__link{
+    text-decoration: none;
+}
+
+.phone__button{
+    border: none;
+    background-color: transparent;
+}

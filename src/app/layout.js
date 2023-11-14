@@ -1,5 +1,5 @@
 import Header from '@/components/Header/Navigation/Header/Header'
-import './globals.scss'
+import '../styles/globals.scss'
 import { Inter } from 'next/font/google'
 
 
